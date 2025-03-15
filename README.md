@@ -2,34 +2,16 @@
   <img height="150" src="https://i.imgur.com/dY9LHxY.png"  />
 </div>
 
-###
+<h1 align="center">Seif Tolba</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ssitolba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="t.me/seifsamehtolba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seifsamehtolba.seifsamehtolba&"  />
-</div>
-
-###
-
-<h1 align="center">I'm Seif 👋🏻</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"><br>- 🔭 Freelance developer working on innovative projects.<br>- 📚 Pursuing a degree in Computer Engineering.<br>- ⚡ Passionate about building software in my free time.</p>
+<p align="left">- 🔭 Freelance developer working on innovative projects.<br>- 📚 Pursuing a degree in Computer Engineering.<br>- ⚡ Passionate about building software in my free time.</p>
 
 ###
 
@@ -68,8 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-###
 
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/1191025138473390084)](https://discord.com/users/1191025138473390084)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1191025138473390084)](https://discord.com/users/1191025138473390084)
 ###
